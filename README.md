@@ -1,0 +1,4 @@
+adminpage
+=========
+
+Admin page
